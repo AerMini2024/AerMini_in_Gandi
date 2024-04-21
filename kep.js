@@ -1,4 +1,3 @@
-'use strict';
 const aermini_embed_picture = "https://aermini.nmslcnm.cn/kz/bg.png";
 
 const aermini_embed_icon = "https://aermini.nmslcnm.cn/kz/logo.png";
